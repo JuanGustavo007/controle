@@ -17,3 +17,7 @@ Usei vue para criar o projeto, mas foi usando bastante Js para fazer a lista e a
 -watch;
 
 -Ações de Click e mouse.
+
+## Imagem
+
+<img src="https://github.com/JuanGustavo007/controle/blob/main/src/assets/controle.PNG"></img>
