@@ -1,24 +1,19 @@
 # controle
 
-## Project setup
-```
-npm install
-```
+## Sobre
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Projeto de controle financeiro, onde é possível ver o valor total de valores positivos (entradas) e as suas saídas de caixa e ao enviar os dados ele cria uma lista de tudo que foi adicionado.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Vue
 
-### Lints and fixes files
-```
-npm run lint
-```
+Usei vue para criar o projeto, mas foi usando bastante Js para fazer a lista e a limpeza dos dados ao adicionar um dado.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Conceitos de vue utilizados
+
+-Props;
+
+-Eventos globais via emit;
+
+-watch;
+
+- Ações de Click e mouse.
