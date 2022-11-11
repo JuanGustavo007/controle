@@ -16,4 +16,4 @@ Usei vue para criar o projeto, mas foi usando bastante Js para fazer a lista e a
 
 -watch;
 
-- Ações de Click e mouse.
+-Ações de Click e mouse.
